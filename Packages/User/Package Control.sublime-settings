@@ -1,0 +1,18 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"Git",
+		"Markdown Preview",
+		"Package Control",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-pylint",
+		"SublimeREPL",
+		"Theme - Soda",
+		"Theme - Spacegray"
+	]
+}
